@@ -9,10 +9,10 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate developer Jr from Colombia,
-- Last semester systems engineering student,
+- A passionate developer from Colombia,
+- Systems engineering
 - With experience in web development,
-- Interested in opportunities as a junior developer.
+- Interested in opportunities as a developer. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
